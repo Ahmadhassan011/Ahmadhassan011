@@ -9,3 +9,5 @@ I am a **Computer Science student** who loves to explore the world of technology
 > "The best way to predict the future is to invent it." – Alan Kay
 
 Let’s create something great together!
+
+[![An image of @ahmadhassan011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmadhassan011)](https://holopin.io/@ahmadhassan011)
