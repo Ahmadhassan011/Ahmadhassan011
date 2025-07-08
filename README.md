@@ -6,8 +6,6 @@
   <strong>Crafting scalable solutions, one commit at a time.</strong>
 </p>
 
----
-
 ## 🚀 About Me
 
 I’m a curious and driven **Computer Science student** with a solid foundation in algorithms, data structures, and system design. I love solving real-world problems with clean code and scalable systems.
@@ -17,7 +15,6 @@ I’m a curious and driven **Computer Science student** with a solid foundation 
 💬 Ask me about: Backend development, APIs, system architecture, and DevOps  
 🎯 Mission: Learn continuously, build meaningful tools, and collaborate with great minds
 
----
 
 ## 🛠️ Technical Skills
 
@@ -25,11 +22,10 @@ I’m a curious and driven **Computer Science student** with a solid foundation 
   <tr>
     <th align="left">💻 Languages</th>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
     </td>
   </tr>
 
@@ -56,9 +52,8 @@ I’m a curious and driven **Computer Science student** with a solid foundation 
   <tr>
     <th align="left">🗄️ Databases</th>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
 
@@ -79,7 +74,6 @@ I’m a curious and driven **Computer Science student** with a solid foundation 
     </td>
   </tr>
 </table>
-
 
 ## 🤝 Connect with Me
 
