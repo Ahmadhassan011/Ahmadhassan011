@@ -80,14 +80,15 @@ I’m a curious and driven **Computer Science student** with a solid foundation 
 
 ## 🤝 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/ahmad-h01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
   <a href="mailto:ahmadhassan6531@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://yourportfolio.com">
+  <!-- <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white" alt="Portfolio">
-  </a>
+  </a> -->
 </p>
