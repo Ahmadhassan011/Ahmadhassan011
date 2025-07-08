@@ -75,11 +75,19 @@ I’m a curious and driven **Computer Science student** with a solid foundation 
   </tr>
 </table>
 
+
+
+
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmad-h01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadhassan6531@gmail.com)
-
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white)](https://yourportfolio.com) 
-
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ahmad_dev) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-h01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ahmadhassan6531@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white" alt="Portfolio">
+  </a>
+</p>
