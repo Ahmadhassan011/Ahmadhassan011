@@ -30,7 +30,7 @@ I’m a curious and driven **Computer Science student** with a solid foundation 
   </tr>
 
   <tr>
-    <th align="left">AI / ML Tooling (Exploring)</th>
+    <th align="left">AI / ML Tooling</th>
     <td>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
