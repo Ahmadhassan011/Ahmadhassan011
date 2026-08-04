@@ -50,8 +50,7 @@ I'm a Computer Science student focused on building intelligent, scalable, and re
   <tr>
     <th align="left">Cloud Fundamentals</th>
     <td>
-      <img src="https://img.shields.io/badge/AWS_Educate-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
     </td>
   </tr>
 
