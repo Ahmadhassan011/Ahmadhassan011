@@ -1,19 +1,9 @@
 <!-- Title -->
-<h1 align="center">Hi there, I'm Ahmad Hassan 👋</h1>
-
-<p align="center">
-  <em>Computer Science Student | Cloud & AI Explorer | Problem Solver</em><br>
-  <strong>Crafting scalable solutions, one commit at a time.</strong>
-</p>
+<!-- Title --> <h1 align="center">Hi, I'm Ahmad Hassan</h1> <p align="center"> <em>Computer Science Student • Backend Engineering • Artificial Intelligence</em><br> Building intelligent and scalable software systems. </p>
 
 ## About Me
 
-I’m a curious and driven **Computer Science student** with a solid foundation in algorithms, data structures, and system design. I love solving real-world problems with clean code and scalable systems.
-
-🔍 Currently exploring: AI/ML fundamentals and cloud-native development  
-🌱 Learning: Machine learning workflows, model deployment, and distributed systems  
-💬 Ask me about: Backend development, APIs, system architecture, and DevOps  
-🎯 Mission: Learn continuously, build meaningful tools, and collaborate with great minds
+I'm a Computer Science student focused on building intelligent, scalable, and reliable software systems. My interests include backend engineering, artificial intelligence, and system design, with a focus on building production-ready software.
 
 
 ## Technical Skills
